@@ -1,0 +1,3 @@
+1. To scrape from /scraper run `scrapy crawl balancesheetspider`
+2. From /balance run `python manage.py runserver` to run django server
+3. From /frontapp run `ng serve` to run angular server
